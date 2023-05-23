@@ -1,1 +1,1 @@
-# gmx-copy-trade-bot
+# consolecowboys-web3-py
