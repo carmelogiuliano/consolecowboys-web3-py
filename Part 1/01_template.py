@@ -1,6 +1,6 @@
 from web3 import Web3
 
-INFURA = 'https://arbitrum-mainnet.infura.io/v3/1a7def275e74445fb433aacbdf9fa3d7'
+INFURA = 'https://mainnet.infura.io/v3/1a7def275e74445fb433aacbdf9fa3d7'
 
 # Connect to blockchain
 w3 = Web3(Web3.HTTPProvider(INFURA))
